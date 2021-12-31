@@ -4,6 +4,9 @@ I'm Saideep Dicholkar 👨‍💻 currently working as an Automation Engineer wi
 
 I'm a web developer with 2 years of experience working on projects including both Front-end & Back-end technologies involving HTML5, CSS, JavaScript, Angular 8, Node.js, REST APIs, C#, .NET, SQL, Selenium.
 
+
+🎓 I've completed my Bachelors in Computer Engineering from Mumbai University
+
 🌱 I’m currently learning ReactJS
 
 #### 👨‍💻 Different Programming Languages & Skills that I possess:
@@ -27,9 +30,6 @@ I'm a web developer with 2 years of experience working on projects including bot
 - Azure DevOps
 - Azure Data Factory
 - JMeter
-
-
-#### 🎓 I've completed my Bachelors in Computer Engineering from Mumbai University
 
 
 #### 💻🛠️ Projects that I've built as hobby projects to learn new technologies:
