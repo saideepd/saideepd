@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Saideep Dicholkar 👨‍💻
 
-I'm Saideep Dicholkar 👨‍💻 currently working as an Automation Engineer with [Willis Towers Watson](https://www.willistowerswatson.com/en-IN).
+I'm currently working as an Automation Engineer  with [Willis Towers Watson](https://www.willistowerswatson.com/en-IN).
 
 I'm a web developer with 2 years of experience working on projects including both Front-end & Back-end technologies involving HTML5, CSS, JavaScript, Angular 8, Node.js, REST APIs, C#, .NET, SQL, Selenium.
 
