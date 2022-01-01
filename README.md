@@ -10,31 +10,21 @@ I'm a web developer with 2 years of experience working on projects including bot
 🌱 I’m currently learning ReactJS
 
 #### 👨‍💻 Different Programming Languages & Skills that I possess:
-- C# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐⭐⭐⭐⭐
-- Java &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐⭐⭐⭐
-- JavaScript &nbsp;&nbsp;⭐⭐⭐⭐
-- HTML5 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐⭐⭐⭐⭐
-- CSS3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐⭐⭐⭐⭐
-- SQL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐⭐⭐⭐
-- Python &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐⭐⭐
-- Node.js &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐⭐⭐⭐
-- Angular &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐⭐⭐
-- ReactJS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐⭐⭐
+- C#, Java, JavaScript, HTML5, CSS3, SQL, Python, Node.js, Angular, ReactJS
 
 #### 🤖 Tools & Technologies that I've worked & familiar with: 
-- Microsoft Azure
-- Postman
-- Salesforce Lightning
-- Selenium WebDriver
-- Puppeteer
-- Azure DevOps
-- Azure Data Factory
-- JMeter
+- Microsoft Azure, Postman, Salesforce Lightning, Selenium WebDriver, Puppeteer, JMeter
 
+<br/>
+
+<div align="center">
+    
+![Saideep's Stats](https://github-readme-stats.vercel.app/api?username=saideepd&count_private=true&show_icons=true&theme=react) &nbsp;&nbsp;&nbsp;&nbsp; ![Saideep's most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saideepd&exclude_repo=Moto-X-Play-Kernel&hide=php,tcl,assembly,matlab&langs_count=10&theme=react&layout=compact)
+
+</div>
 
 #### 💻🛠️ Projects that I've built as hobby projects to learn new technologies:
 
-<center>
   
 | Image | App | Github Source Code | App Demo |
 |:---------------------------------------------------------------------------------------------------------------------------------------------------:|-------------|:---:|:---:|
@@ -46,7 +36,8 @@ I'm a web developer with 2 years of experience working on projects including bot
 | <img src="https://i.imgur.com/5O7EKkU.png" alt="Error 404" title="Error 404" width="200" /> | **Error 404** <br>A landing page for broken links to display the Error 404 page not found build using basic HTML5 & CSS3 | [Source Code](https://github.com/saideepd/error "View Source Code on GitHub for Error 404") | [Error 404](https://error-404-pagenotfound.netlify.app/ "View Error 404's demo") |
 | <img src="https://user-images.githubusercontent.com/30663492/147687655-74aece7c-50e7-4247-8215-46de0e610d1e.png" alt="Mumbai" title="Mumbai" width="200" /> | **Mumbai** <br>A website for tourists traveling in Mumbai. This site will help you to find the popular destinations, history, hotels, etc. to visit in Mumbai. The site provides short and crisp information about Mumbai. It was created as a part of college curriculum. | [Source Code](https://github.com/saideepd/mumbai "View Source Code on GitHub for Mumbai") | [Mumbai](https://mumbai-tourism.netlify.app/ "View Mumbai website's demo") |
 
-</center>
+
+
 
 <!--
 **saideepd/saideepd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
