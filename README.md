@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Saideep Dicholkar 👨‍💻
 
-I'm currently working as an Automation Engineer  with [Willis Towers Watson](https://www.willistowerswatson.com/en-IN).
+I'm currently working as an Automation Engineer  with [Willis Towers Watson](https://www.wtwco.com/en-IN).
 
 I'm a web developer with 2 years of experience working on projects including both Front-end & Back-end technologies involving HTML5, CSS, JavaScript, Angular 8, Node.js, REST APIs, C#, .NET, SQL, Selenium.
 
@@ -10,14 +10,57 @@ I'm a web developer with 2 years of experience working on projects including bot
 🌱 I’m currently learning ReactJS
 
 #### 👨‍💻 Different Programming Languages & Skills that I possess:
-- C#, Java, JavaScript, HTML5, CSS3, SQL, Python, Node.js, Angular, ReactJS
+- C#, Java, JavaScript, HTML5, CSS3, SQL, Python, Angular, React, MongoDB
+    <p>
+        <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank"><img src="https://user-images.githubusercontent.com/30663492/151696847-b74fc72d-f6d2-43c9-81f8-bc28dc20a0f1.svg" alt="csharp" width="40" height="40" title="C#"/></a>
+        &nbsp;&nbsp;
+        <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank"><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" title="Java"/></a>
+        &nbsp;&nbsp;
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" title="JavaScript"/></a>
+        &nbsp;&nbsp;
+        <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="HTML 5"/></a>
+        &nbsp;&nbsp;
+        <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="CSS 3"/></a>
+        &nbsp;&nbsp;
+        <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" title="MS SQL Server"/></a>
+        &nbsp;&nbsp;
+        <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/></a>
+        &nbsp;&nbsp;
+        <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" title="Angular"/></a>
+        &nbsp;&nbsp;
+        <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React"/></a>
+        &nbsp;&nbsp;
+        <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="80" height="40" title="MongoDB"/></a>
+    </p>
+    
 
-#### 🤖 Tools & Technologies that I've worked & familiar with: 
-- Microsoft Azure, Postman, Salesforce Lightning, Selenium WebDriver, Puppeteer, JMeter
+#### 🤖 Tools & Technologies that I've worked & familiar with:
+- Microsoft Azure, Postman, Node.js, ExpressJS, Git, Salesforce Lightning, Selenium WebDriver, Puppeteer, JMeter, Jenkins
+    <p>
+        <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40" title="Microsoft Azure"/></a>
+        &nbsp;&nbsp;
+        <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" title="Postman"/></a>
+        &nbsp;&nbsp;
+        <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs" width="100" height="35" title="Node.js"/></a>
+        &nbsp;&nbsp;
+        <a href="https://expressjs.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="expressjs" width="80" height="40" title="ExpressJS"/></a>
+        &nbsp;&nbsp;
+        <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git"/></a>
+        &nbsp;&nbsp;
+        <a href="https://www.salesforce.com/campaign/lightning/" target="_blank"><img src="https://www.vectorlogo.zone/logos/salesforce/salesforce-ar21.svg" alt="Salesforce" width="80" height="40" title="Salesforce Lightning"/></a>
+        &nbsp;&nbsp;
+        <a href="https://www.selenium.dev" target="_blank"> <img src="https://user-images.githubusercontent.com/30663492/151697536-42257548-82b6-4d62-b572-00f5fcebeb81.svg" alt="selenium" width="40" height="40" title="Selenium Webdriver"/></a>
+        &nbsp;&nbsp;
+    <a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40" title="Puppeteer"/></a>
+        &nbsp;&nbsp;
+    <a href="https://www.apache.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/30663492/151696523-9bc70dd2-33b4-46af-864f-aeb2c71d9518.svg" alt="jmeter" width="110" height="40" title="Apache JMeter"/></a>
+        &nbsp;&nbsp;
+        <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" title="Jenkins"/></a>
+    </p>
 
 <br/>
 
-<div align="center">
+<div>
     
 ![Saideep's Stats](https://github-readme-stats.vercel.app/api?username=saideepd&count_private=true&show_icons=true&theme=react) &nbsp;&nbsp;&nbsp;&nbsp; ![Saideep's most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saideepd&exclude_repo=Moto-X-Play-Kernel&hide=php,tcl,assembly,matlab&langs_count=10&theme=react&layout=compact)
 
